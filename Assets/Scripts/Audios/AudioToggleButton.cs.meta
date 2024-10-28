@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c65c5dc3d48e5b34085a9746f1ef7344
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _muteIcon: {fileID: 21300000, guid: 8dbf5c31d43c23b4a950a956c70a2bda, type: 3}
+  - _unmuteIcon: {fileID: 21300000, guid: 3ea25add25fe85e46ab988f69b524ef2, type: 3}
+  - _button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

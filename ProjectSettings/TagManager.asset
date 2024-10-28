@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovementTutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2843043387
+    locked: 0
+  - name: Room
+    uniqueID: 2348762509
+    locked: 0
+  - name: Furniture
+    uniqueID: 1549886015
+    locked: 0
+  - name: Particle System
+    uniqueID: 1443289039
+    locked: 0
+  - name: Agent
+    uniqueID: 2981282153
+    locked: 0
+  - name: UI
+    uniqueID: 2867626219
+    locked: 0
