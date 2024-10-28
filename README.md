@@ -13,9 +13,10 @@ Welcome to *Cyber Quest: The Adventure of a Cybersecurity Agent*, an interactive
 
 This project was created as a capstone to provide an accessible, game-based approach for users—especially beginners—to learn cybersecurity. By addressing common security threats in a fun and interactive manner, *Cyber Quest* helps users gain familiarity with essential cybersecurity concepts such as password security, vulnerability detection, and encryption. Each level presents unique challenges that simulate real-life scenarios, enabling players to learn by identifying security vulnerabilities within a virtual setting.
 
-### Key Features:
+### Game Features:
 - **User-Friendly Learning**: The game is designed to make cybersecurity concepts approachable for beginners, presenting complex ideas through simple, interactive gameplay.
 - **Multi-Level Challenges**: *Cyber Quest* includes multiple levels with increasing difficulty, helping users build a foundation of cybersecurity knowledge step-by-step.
+- **Offline Play**: Designed for offline use, the game is accessible anytime and anywhere, allowing players to continue learning without an internet connection.
 - **Engaging 2D Graphics**: Developed with pixel art assets, the game features an immersive 2D environment to keep users engaged and entertained.
 
 ## Acknowledgements
