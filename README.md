@@ -33,7 +33,3 @@ This project would not have been possible without the following resources and su
 - **How to Play**: A tutorial mode guides new players through basic game mechanics.
 - **Game Levels**: Start from the first level and progress through increasingly challenging levels by identifying security vulnerabilities.
 - **Objectives**: Complete tasks within each level to learn different cybersecurity principles in a practical, hands-on way.
-
-## License
-
-This project is licensed under the MIT License.
